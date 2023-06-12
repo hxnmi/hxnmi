@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hxnmi&margin-w=10&margin-h=10&column=10&theme=darkhub" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hxnmi&show_icons=true&theme=radical&locale=en&layout=compact" alt="hxnmi" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hxnmi&show_icons=true&theme=radical&locale=en&layout=compact" alt="hxnmi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hxnmi&show_icons=true&theme=radical&locale=en" alt="hxnmi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hxnmi&show_icons=true&theme=radical&locale=en" alt="hxnmi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hxnmi&theme=radical" alt="hxnmi" /></p>
 
