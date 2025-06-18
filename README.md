@@ -9,7 +9,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hxnmi&show_icons=true&theme=radical&locale=en" alt="hxnmi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hxnmi&theme=radical" alt="hxnmi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=hxnmi&theme=radical" alt="hxnmi" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
