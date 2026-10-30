@@ -59,8 +59,8 @@ Semarang, Indonesia · Unity Certified Associate
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hxnmi&show_icons=true&hide_border=true&hide_rank=true&custom_title=GitHub%20activity&title_color=C084FC&icon_color=C084FC&text_color=E6EDF3&bg_color=00000000" />
-    <img src="https://github-readme-stats.vercel.app/api?username=hxnmi&show_icons=true&hide_border=true&hide_rank=true&custom_title=GitHub%20activity&title_color=7C0A94&icon_color=7C0A94&text_color=1F2328&bg_color=00000000" height="165" alt="Hanif's GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=hxnmi&show_icons=true&hide_border=true&hide_rank=true&custom_title=GitHub%20activity&title_color=C084FC&icon_color=C084FC&text_color=E6EDF3&bg_color=00000000" />
+    <img src="https://github-stats-extended.vercel.app/api?username=hxnmi&show_icons=true&hide_border=true&hide_rank=true&custom_title=GitHub%20activity&title_color=7C0A94&icon_color=7C0A94&text_color=1F2328&bg_color=00000000" height="165" alt="Hanif's GitHub stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=hxnmi&hide_border=true&background=00000000&ring=C084FC&fire=C084FC&currStreakLabel=C084FC&currStreakNum=E6EDF3&sideLabels=E6EDF3&dates=8B949E&sideNums=E6EDF3" />
@@ -70,8 +70,8 @@ Semarang, Indonesia · Unity Certified Associate
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=hxnmi&layout=compact&langs_count=8&hide_border=true&title_color=C084FC&text_color=E6EDF3&bg_color=00000000&card_width=495" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hxnmi&layout=compact&langs_count=8&hide_border=true&title_color=7C0A94&text_color=1F2328&bg_color=00000000&card_width=495" height="165" alt="Most used languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=hxnmi&layout=compact&langs_count=8&hide_border=true&title_color=C084FC&text_color=E6EDF3&bg_color=00000000&card_width=495" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=hxnmi&layout=compact&langs_count=8&hide_border=true&title_color=7C0A94&text_color=1F2328&bg_color=00000000&card_width=495" height="165" alt="Most used languages" />
   </picture>
 </p>
 
